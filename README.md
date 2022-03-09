@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Parcial 1- Luis Enrique Archuleta Izabal</h1>
+    <a href="index.html"></a>
 </body>
 </html>
